@@ -26,5 +26,5 @@ reset.addEventListener('click',() => {
     startNum = 0;
     mainNum.style.color = 'black';
     mainNum.innerText = startNum;
-    alert(`Let's get start again together ${playerName.toUpperCase()}!`);
+    alert(`Let's get started again ${playerName.toUpperCase()}!`);
 })
